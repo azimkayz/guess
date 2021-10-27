@@ -1,0 +1,9 @@
+name = "guess"
+description = "Shiny new project"
+version = "0.0.0"
+
+authors = ["qays ali"]
+maintainers = ["qays ali <azimkayz13@gmail.com>"]
+maintainers-logins = ["azimkayz"]
+
+executables = ["guess"]
